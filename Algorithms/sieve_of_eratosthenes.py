@@ -1,6 +1,7 @@
-# Time complexity => O(n*log(log(n)))
+# Time complexity => O(n) - optimised {O(n*log(log(n))) - Classic}
 # Space complexity => O(n)
 
+# Qn: Given a number n, print all primes smaller than or equal to n. It is also given that n is a small number.
 
 from math import sqrt
 
